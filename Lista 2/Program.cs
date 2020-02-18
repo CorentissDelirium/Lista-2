@@ -10,6 +10,8 @@ namespace Lista_2
     {
         static void Main(string[] args)
         {
+
+            Console.ReadKey();
         }
     }
 }
